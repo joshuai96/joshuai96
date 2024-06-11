@@ -18,4 +18,6 @@ Here are some ideas to get you started:
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joshuai96&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=nord&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joshuai96&theme=nord&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
+[![GitRoll Profile Badge](https://gitroll.io/api/badges/profiles/v1/uUMzU3YvoziMjoypvQUdeF82rO782)](https://gitroll.io/profile/uUMzU3YvoziMjoypvQUdeF82rO782)
+
 [![An image of @joshuai96's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/joshuai96)](https://holopin.io/@joshuai96)
